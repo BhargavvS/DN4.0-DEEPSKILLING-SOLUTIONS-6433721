@@ -1,4 +1,4 @@
-package SingletonPatternExample01;
+package SingletonPatternExample;
 
 public class Singleton {
     public static void main(String[] args) {
