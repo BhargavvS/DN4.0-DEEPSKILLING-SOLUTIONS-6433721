@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DN4.0-DEEPSKILLING-SOLUTIONS.iml" filepath="$PROJECT_DIR$/DN4.0-DEEPSKILLING-SOLUTIONS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WEEK1/DataStructuresAndAlgorithms/DataStructuresAndAlgorithms.iml" filepath="$PROJECT_DIR$/WEEK1/DataStructuresAndAlgorithms/DataStructuresAndAlgorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WEEK1/DesignPatternsAndPrinciples/DesignPatternsAndPrinciples.iml" filepath="$PROJECT_DIR$/WEEK1/DesignPatternsAndPrinciples/DesignPatternsAndPrinciples.iml" />
       <module fileurl="file://$PROJECT_DIR$/WEEK1/WEEK1.iml" filepath="$PROJECT_DIR$/WEEK1/WEEK1.iml" />
     </modules>
   </component>
